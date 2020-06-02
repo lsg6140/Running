@@ -32,11 +32,11 @@ Workout time including
 - Warm up 5 min to HR 130
 - Cool down 5 min to HR 115
 
-|            |   Mon   |   Tue   |   Wed   | Thu  |   Fri   | Sat  |   Sun   |
-|:----------:|:-------:|:-------:|:-------:|:----:|:-------:|:----:|:-------:|
-| Type       | Fartlek | Fartlek | Fartlek | Rest | Fartlek | Rest | Fartlek |
-| Time (min) | 30      | 30      | 30      |      | 30      |      | 50      |
-| HR (bpm)   | 120-150 | 120-150 | 120-150 |      | 120-150 |      | 120-150 |
+|            |   Mon   |   Tue   | Wed  |   Thu   |   Fri   | Sat  |   Sun   |
+|:----------:|:-------:|:-------:|:----:|:-------:|:-------:|:----:|:-------:|
+| Type       | Fartlek | Fartlek | Rest | Fartlek | Fartlek | Rest | Fartlek |
+| Time (min) | 30      | 30      |      | 30      | 30      |      | 50      |
+| HR (bpm)   | 120-150 | 120-150 |      | 120-150 | 120-150 |      | 120-150 |
 
 Repeat until able to cover the entire period without walking
 
