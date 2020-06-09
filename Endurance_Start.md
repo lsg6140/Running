@@ -99,3 +99,10 @@ Interval: 7:00 repeats at 80-85% MHR with 2:00 jog to less than 70% MHR
 | Type       | Rest | Stamina |   Jog   | Interval | Rest |   Jog   | LSD     |
 | Time (min) |      | 35      | 30      | 7:00 X 4 |      | 45      | 75      |
 | HR (bpm)   |      | 150-160 | 130-140 | 160-170  |      | 130-140 | 120-150 |
+
+## Week 5
+|            |    Mon  |   Tue    |   Wed   |  Thu |    Fri  | Sat  |   Sun   |
+|:----------:|:-------:|:--------:|:-------:|:----:|:-------:|:----:|:-------:|
+| Type       |   Jog   | Interval |   Jog   | Rest |   Jog   | Rest | Race    |
+| Time (min) |  45     | 7:00 X 3 | 60      |      |  25     |      | 5k      |
+| HR (bpm)   | 130-140 | 160-170  | 130-140 |      | 130-140 |      |         |
