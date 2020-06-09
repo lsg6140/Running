@@ -58,6 +58,7 @@ Workout time including
 
 Back to **B** if pace slows down
 
+Target pace: 5:30 for 45 min steady
 
 # Enhancing Endurance
 - Warm up 10 min
