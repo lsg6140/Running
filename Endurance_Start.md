@@ -60,8 +60,8 @@ Back to **B** if pace slows down
 
 
 # Enhancing Endurance
-- Warm up 10 min to HR 130
-- Cool down 5 min to HR 115
+- Warm up 10 min
+- Cool down 5 min
 - Warm up and cool down are not included in the working out time in table
 
 ## Week 1
@@ -69,33 +69,33 @@ Back to **B** if pace slows down
 |:----------:|:----:|:-------:|:-------:|:-------:|:----:|:-------:|:-------:|
 | Type       | Rest |   Jog   |   Jog   |   Jog   | Rest |   Jog   | LSD     |
 | Time (min) |      | 25      | 30      | 25      |      | 20      | 50      |
-| HR (bpm)   |      | 130-140 | 130-140 | 130-140 |      | 130-140 | 130-150 |
+| HR (bpm)   |      | 130-140 | 130-140 | 130-140 |      | 130-140 | 120-150 |
 
 ## Week 2
 |            |  Mon |   Tue   |   Wed   |   Thu   | Fri  |   Sat   |   Sun   |
 |:----------:|:----:|:-------:|:-------:|:-------:|:----:|:-------:|:-------:|
 | Type       | Rest |   Jog   |   Jog   |   Jog   | Rest |   Jog   | LSD     |
 | Time (min) |      | 35      | 25      | 35      |      | 28      | 57      |
-| HR (bpm)   |      | 130-140 | 130-140 | 130-140 |      | 130-140 | 130-150 |
+| HR (bpm)   |      | 130-140 | 130-140 | 130-140 |      | 130-140 | 120-150 |
 
 ## Week 3
 |            |  Mon |   Tue   |   Wed   |   Thu   | Fri  |   Sat   |   Sun   |
 |:----------:|:----:|:-------:|:-------:|:-------:|:----:|:-------:|:-------:|
-| Type       | Rest |   Jog   |   Jog   | Tempo   | Rest |   Jog   | LSD     |
+| Type       | Rest |   Jog   |   Jog   | Stamina | Rest |   Jog   | LSD     |
 | Time (min) |      | 30      | 25      | 25      |      | 35      | 65      |
-| HR (bpm)   |      | 130-140 | 130-140 | 150-160 |      | 130-140 | 130-150 |
+| HR (bpm)   |      | 130-140 | 130-140 | 150-160 |      | 130-140 | 120-150 |
 
 ## Week 4
 |            |  Mon |   Tue   |   Wed   |   Thu   | Fri  |   Sat   |   Sun   |
 |:----------:|:----:|:-------:|:-------:|:-------:|:----:|:-------:|:-------:|
-| Type       | Rest |   Jog   |  Tempo  | Tempo   | Rest |   Jog   | LSD     |
+| Type       | Rest |   Jog   | Stamina | Stamina | Rest |   Jog   | LSD     |
 | Time (min) |      | 30      | 25      | 35      |      | 35      | 70      |
-| HR (bpm)   |      | 130-140 | 150-160 | 150-160 |      | 130-140 | 130-150 |
+| HR (bpm)   |      | 130-140 | 150-160 | 150-160 |      | 130-140 | 120-150 |
 
 ## Week 4
 Interval: 7:00 repeats at 80-85% MHR with 2:00 jog to less than 70% MHR
-|            |  Mon |   Tue   |   Wed   |   Thu     | Fri  |   Sat   |   Sun   |
-|:----------:|:----:|:-------:|:-------:|:---------:|:----:|:-------:|:-------:|
-| Type       | Rest | Tempo   |   Jog   | Interval | Rest |   Jog   | LSD     |
+|            |  Mon |   Tue   |   Wed   |   Thu    | Fri  |   Sat   |   Sun   |
+|:----------:|:----:|:-------:|:-------:|:--------:|:----:|:-------:|:-------:|
+| Type       | Rest | Stamina |   Jog   | Interval | Rest |   Jog   | LSD     |
 | Time (min) |      | 35      | 30      | 7:00 X 4 |      | 45      | 75      |
-| HR (bpm)   |      | 150-160 | 130-140 | 160-170  |      | 130-140 | 130-150 |
+| HR (bpm)   |      | 150-160 | 130-140 | 160-170  |      | 130-140 | 120-150 |
