@@ -50,10 +50,30 @@ Workout time including
 - Warm up 10 min to HR 130
 - Cool down 5 min to HR 115
 
-|            |   Mon   |   Tue   | Wed |   Thu   |   Fri   |   Sat   |   Sun   |
-|:----------:|:-------:|:-------:|:---:|:-------:|:-------:|:-------:|:-------:|
-| Type       |   Jog   |   Jog   | Rest|   Jog   |   Jog   |   Jog   | LSD     |
-| Time (min) | 30      | 45      |     | 45      | 30      | 20      | 60      |
-| HR (bpm)   | -150    | 140-150 |     | 140-150 | -150    | 120-130 | -150    |
+|            |   Mon   |   Tue   |  Wed |   Thu   |   Fri   |   Sat   |   Sun   |
+|:----------:|:-------:|:-------:|:----:|:-------:|:-------:|:-------:|:-------:|
+| Type       |   Jog   |   Jog   | Rest |   Jog   |   Jog   |   Jog   | LSD     |
+| Time (min) | 30      | 45      |      | 45      | 30      | 20      | 60      |
+| HR (bpm)   | -150    | 140-150 |      | 140-150 | -150    | 120-130 | -150    |
 
 Back to **B** if pace slows down
+
+
+# Enhancing Endurance
+- Warm up 10 min to HR 130
+- Cool down 5 min to HR 115
+- Warm up and cool down are not included in the working out time in table
+
+## Week 1
+|            |  Mon |   Tue   |   Wed   |   Thu   | Fri  |   Sat   |   Sun   |
+|:----------:|:----:|:-------:|:-------:|:-------:|:----:|:-------:|:-------:|
+| Type       | Rest |   Jog   |   Jog   |   Jog   | Rest |   Jog   | LSD     |
+| Time (min) |      | 25      | 30      | 25      |      | 20      | 50      |
+| HR (bpm)   |      | 130-140 | 130-140 | 130-140 |      | 130-140 | 130-150 |
+
+## Week 2
+|            |  Mon |   Tue   |   Wed   |   Thu   | Fri  |   Sat   |   Sun   |
+|:----------:|:----:|:-------:|:-------:|:-------:|:----:|:-------:|:-------:|
+| Type       | Rest |   Jog   |   Jog   |   Jog   | Rest |   Jog   | LSD     |
+| Time (min) |      | 35      | 25      | 35      |      | 28      | 57      |
+| HR (bpm)   |      | 130-140 | 130-140 | 130-140 |      | 130-140 | 130-150 |
