@@ -26,6 +26,8 @@ Fartlek
 
 Repeat until able to cover the entire period without walking
 
+Target pace: 6:30 for 30 min steady
+
 ## Progression B
 
 Workout time including
@@ -39,6 +41,8 @@ Workout time including
 | HR (bpm)   | 120-150 | 120-150 |      | 120-150 | 120-150 |      | 120-150 |
 
 Repeat until able to cover the entire period without walking
+
+Target pace: 6:00 for 40 min steady
 
 ## Progression C
 
