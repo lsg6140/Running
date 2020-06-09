@@ -94,8 +94,8 @@ Back to **B** if pace slows down
 
 ## Week 4
 Interval: 7:00 repeats at 80-85% MHR with 2:00 jog to less than 70% MHR
-|            |  Mon |   Tue   |   Wed   |     Thu     | Fri  |   Sat   |   Sun   |
-|:----------:|:----:|:-------:|:-------:|:-----------:|:----:|:-------:|:-------:|
-| Type       | Rest | Tempo   |   Jog   |   Interval  | Rest |   Jog   | LSD     |
-| Time (min) |      | 35      | 30      |7:00 $\times$ 4|      | 45      | 75      |
-| HR (bpm)   |      | 150-160 | 130-140 |   160-170   |      | 130-140 | 130-150 |
+|            |  Mon |   Tue   |   Wed   |   Thu     | Fri  |   Sat   |   Sun   |
+|:----------:|:----:|:-------:|:-------:|:---------:|:----:|:-------:|:-------:|
+| Type       | Rest | Tempo   |   Jog   | Interval | Rest |   Jog   | LSD     |
+| Time (min) |      | 35      | 30      | 7:00 X 4 |      | 45      | 75      |
+| HR (bpm)   |      | 150-160 | 130-140 | 160-170  |      | 130-140 | 130-150 |
