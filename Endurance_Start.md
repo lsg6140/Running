@@ -26,7 +26,8 @@ Fartlek
 
 Repeat until able to cover the entire period without walking
 
-Target pace: 6:30 for 30 min steady
+~~Target pace: 6:30 for 30 min steady~~
+Target power: 180 W for 30 min steady
 
 ## Progression B
 
@@ -42,7 +43,8 @@ Workout time including
 
 Repeat until able to cover the entire period without walking
 
-Target pace: 6:00 for 40 min steady
+~~Target pace: 6:00 for 40 min steady~~
+Target power: 200 W for 40 min steady
 
 ## Progression C
 
@@ -58,7 +60,8 @@ Workout time including
 
 Back to **B** if pace slows down
 
-Target pace: 5:30 for 45 min steady
+~~Target pace: 5:30 for 45 min steady~~
+Target power: 220 W for 45 min steady
 
 # Enhancing Endurance
 - Warm up 10 min
