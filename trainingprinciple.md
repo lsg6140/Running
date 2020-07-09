@@ -86,6 +86,25 @@ Bones in the lower limb undergo demineralization during the first three to five 
 ! Most injury prone - 8th to 12th week (4th month)
 
 ## 20-week training schedule for beginners
-|        | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|--------|-----|-----|-----|-----|-----|-----|-----|
-| Week 1 | W20 |     | W20 |     | W20 |     | W20 |
+|        |   Sun   | Mon     | Tue     | Wed     | Thu     | Fri     | Sat     |
+|--------|---------|---------|---------|---------|---------|---------|---------|
+| Week 1 |    W20  |         | W20     |         | W20     |         | W20     |
+| Week 2 |         | W20     |         | W20     |         | W20     |         |
+| Week 3 |  W20    | W20     |         | W20     | W10     | W20     |         |
+| Week 4 | W15, R5 | W20     |         | W20     |         | W20     | W10     |
+| Week 5 |         | W20     |         | W20     |         | W15, R5 |         |
+| Week 6 | W20     | W20, R5 |         | W15, R5 |         | W15, R5 |         |
+| Week 7 | W5, R5  | W15, R10|         | W15, R5 |         | W15, R5 |         |
+| Week 8 | W5, R5  | W20, R5 |         | W15, R5 |         | W20, R5 |         |
+| Week 9 | W5, R5  | W20, R5 | W10, R10|         | W10, R10|         | W15, R10|
+| Week 10| R10     | W20, R10|         | W20, R10|         | W20, R10|         |
+| Week 11| W15, R5 | W20, R10|         | W20, R10|         | W20, R10|         |
+| Week 12| W10, R10| W15, R15|         | W20, R10|         | W15, R15|         |
+| Week 13| W10, R10| W10, R20|         | W15, R15|         | W10, R20|         |
+| Week 14| W10, R10| W10, R20|         | W10, R20| R10, W10| W10, R20|         |
+| Week 15| W5, R15 |         | R30     | W5, R15 | R30     |         | W5, R15 |
+| Week 16| W5, R25 |         | R30     | W5, R15 | R30     |         | R20     |
+| Week 17| R30     |         | R30     | R20     | R30     |         | R20     |
+| Week 18| R30     |         | R30     | R20     |         | R30     | R20     |
+| Week 19| R30     |         | R30     | R30     |         | R20     | R30     |
+| Week 20|         | R30     | R20     |         | R30     | R30     | R15     |
