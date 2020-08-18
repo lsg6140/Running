@@ -1,7 +1,7 @@
-Program Minimum. 
+Program Minimum  
 
-- Warming up
-Prying Goblet squat X 5. 
+- Warming up  
+Prying Goblet squat X 5   
 StrongFirst hip bridge X 5. 
 Halo X 3 X 2. 
 X 3. 
